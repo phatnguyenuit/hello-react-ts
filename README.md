@@ -1,4 +1,9 @@
+# hello-react-ts
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Reference
+1. [how-to-use-typescript-with-react-and-redux](https://medium.com/@rossbulat/how-to-use-typescript-with-react-and-redux-a118b1e02b76)
+2. [Typescript Interface](https://www.typescriptlang.org/docs/handbook/interfaces.html)
 
 ## Available Scripts
 
